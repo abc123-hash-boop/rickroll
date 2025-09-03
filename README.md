@@ -23,6 +23,8 @@ IPv4就选A,IPv6选AAAA
 git clone https://github.com/abc123-hash-boop/rickroll
 cd rickroll
 mv * ..
+git lfs install
+git lfs pull
 ```
 
 <img width="908" height="365" alt="image" src="https://github.com/user-attachments/assets/ae7da545-05d7-4bed-9872-3775f7fa19a6" />

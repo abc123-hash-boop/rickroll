@@ -27,7 +27,7 @@ mv * ..
 
 <img width="908" height="365" alt="image" src="https://github.com/user-attachments/assets/ae7da545-05d7-4bed-9872-3775f7fa19a6" />
 
-然后文件就上去了
+然后文件就上去了，别忘了 ``` chown -R www:www * ```
 ## 成品
 
 <img width="1203" height="743" alt="image" src="https://github.com/user-attachments/assets/2b56727a-0986-4d1b-9aae-8123d01becca" />

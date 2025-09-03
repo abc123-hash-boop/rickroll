@@ -11,3 +11,17 @@
 
 <img width="1252" height="736" alt="image" src="https://github.com/user-attachments/assets/bf48db69-514b-4f78-a84e-d0e7beffded2" />
 
+<img width="694" height="620" alt="image" src="https://github.com/user-attachments/assets/ff847f90-5992-4e8d-8adc-44b219f9f629" />
+
+<img width="1254" height="730" alt="image" src="https://github.com/user-attachments/assets/782432b1-3074-4af8-8fa9-03f69b5450b5" />
+
+运行:
+```bash
+git clone https://github.com/abc123-hash-boop/rickroll
+cd rickroll
+mv * ..
+```
+
+<img width="908" height="365" alt="image" src="https://github.com/user-attachments/assets/ae7da545-05d7-4bed-9872-3775f7fa19a6" />
+
+然后文件就上去了

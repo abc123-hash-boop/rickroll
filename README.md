@@ -5,6 +5,8 @@
 
 <img width="1227" height="661" alt="image" src="https://github.com/user-attachments/assets/a3918b00-0d77-41a5-ac4e-6849c2302ebf" />
 
+IPv4就选A,IPv6选AAAA
+
 <img width="760" height="140" alt="image" src="https://github.com/user-attachments/assets/1d52bf19-bdec-498c-91bd-d471434e6942" />
 
 ## 服务器部署
@@ -12,7 +14,6 @@
 
 <img width="1252" height="736" alt="image" src="https://github.com/user-attachments/assets/bf48db69-514b-4f78-a84e-d0e7beffded2" />
 
-IPv4就选A,IPv6选AAAA
 
 <img width="694" height="620" alt="image" src="https://github.com/user-attachments/assets/ff847f90-5992-4e8d-8adc-44b219f9f629" />
 

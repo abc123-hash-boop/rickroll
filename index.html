@@ -59,7 +59,9 @@
 
   function triggerRickroll() {
     document.getElementById('main-content').style.display = 'none';
-    console.log('你被骗了！');
+    // 可选功能（慎用）
+    //navigator.vibrate(1000);
+    alert('你被骗了！');
     video.style.display = 'block';
     video.play().catch(() => {
       console.log('用户需要先点击页面以听清声音');

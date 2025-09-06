@@ -67,7 +67,9 @@ btn.addEventListener('click', () => {
 
     // 视频淡入播放
     video.style.opacity = 1;
-    console.log('你被骗了!');
+    // 可选功能（慎用，出事了我可不负责）
+    //navigator.vibrate(100);
+    alert('你被骗了!');
     video.play().catch(() => {
         console.log('浏览器阻止了自动播放带声音的视频');
     });
@@ -76,3 +78,4 @@ btn.addEventListener('click', () => {
 
 </body>
 </html>
+
